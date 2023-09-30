@@ -1,0 +1,5 @@
+#UNA LLAVE QUE SE HABRE 4 HORAS, VIERTE 1200 LITROS DE AGUA. REALIZAR UN PROGRAMA QUE CALCULE CUANTA AGUA VIERTE LA LLAVE EN CUALQUIER NUMERO DE HORAS
+print("PROGRAMA QUE CALCULA CUANTA AGUA VIERTE LA LLAVE EN CUALQUIER NUMERO DE HORAS(300 L en 1 hr)\n")
+horas=float(input("Ingrese la cantidad de horas: "))
+print("En "+str(horas)+" se vierten "+str(horas*300)+" litros de agua")
+
